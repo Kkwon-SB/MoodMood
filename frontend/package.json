@@ -1,0 +1,64 @@
+{
+  "name": "re",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/is-prop-valid": "^1.1.1",
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.2.0",
+    "@mui/lab": "^5.0.0-alpha.58",
+    "@mui/material": "^5.2.2",
+    "@mui/styles": "^5.2.2",
+    "@popperjs/core": "^2.11.0",
+    "@styled-icons/boxicons-regular": "^10.38.0",
+    "@styled-icons/material": "^10.34.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@udecode/plate": "^8.3.1",
+    "axios": "^0.24.0",
+    "date-fns": "^2.27.0",
+    "dotenv": "^10.0.0",
+    "history": "5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "6",
+    "react-scripts": "^4.0.3",
+    "recharts": "^2.1.6",
+    "recoil": "^0.5.2",
+    "slate": "^0.71.0",
+    "slate-history": "^0.66.0",
+    "slate-hyperscript": "^0.67.0",
+    "slate-react": "^0.71.0",
+    "styled-components": "^5.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+.venv
+
+__pycache__
+
+env.py
+
+node_modules
+.DS_Store
+
+
+# for VM 
+.requirements.txt
